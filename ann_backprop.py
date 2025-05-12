@@ -10,7 +10,7 @@ import numpy as np
 
 # Simple dataset: XOR problem
 dataset = [ 
-    ([1.0, 0.0, 1.0], [1]), #ex solved theoretically in the last lesson
+    ([1.0, 0.0, 1.0], [1]),
     ([0.0, 1.0, 0.0], [0]),
     ([1.0, 1.0, 0.0], [1]),
     ([0.0, 0.0, 0.0], [0])
